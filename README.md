@@ -8,7 +8,6 @@ Steps to run project locally:
 ```bash
 # Create and activate a virtual environment 
 source .venv/bin/activate
-# .venv/bin/activate.fish for fish shell
 ```
 
 2. Install packages from requirements.txt
