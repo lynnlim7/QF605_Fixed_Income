@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 
 3. Run program
-After you activated the virtual environment, you can run the Python scripts. The virtual environemnt ensures the correct packages are used.
+- After you activated the virtual environment, you can run the Python scripts. The virtual environemnt ensures the correct packages are used.
 ```bash 
 python main.py
 ```
